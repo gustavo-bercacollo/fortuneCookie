@@ -27,6 +27,6 @@ This project was developed with the following technologies:
 
 ## :memo: Licença
 
--[] onclick()
+-[ ] onclick()
 
 Esse projeto está sob a licença MIT.
