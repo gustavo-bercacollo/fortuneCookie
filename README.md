@@ -19,6 +19,7 @@ This project was developed with the following technologies:
 
 - HTML e CSS
 - Git e Github
+- JavaScript
 - Figma
 
 ## 💻 Project
@@ -26,7 +27,4 @@ This project was developed with the following technologies:
 - [Acesse o projeto finalizado, online](https://gustavo-bercacollo.github.io/flutuar.com/)
 
 ## :memo: Licença
-
--[ ] onclick()
-
 Esse projeto está sob a licença MIT.
